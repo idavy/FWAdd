@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Dave/Desktop/CProject/FWAdd/FWAdd/Example/build/Debug-iphonesimulator/FWAdd.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FWAdd-Swift.h",
+          'external-contents': "/Users/Dave/Desktop/CProject/FWAdd/FWAdd/Example/build/Debug-iphonesimulator/FWAdd.framework/Headers/FWAdd-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FWAdd-umbrella.h",
+          'external-contents': "/Users/Dave/Desktop/CProject/FWAdd/FWAdd/Example/Pods/Target Support Files/FWAdd/FWAdd-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Dave/Desktop/CProject/FWAdd/FWAdd/Example/build/Debug-iphonesimulator/FWAdd.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Dave/Desktop/CProject/FWAdd/FWAdd/Example/build/Pods.build/Debug-iphonesimulator/FWAdd.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

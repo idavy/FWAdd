@@ -1,0 +1,25 @@
+{
+  "name": "FWAdd",
+  "version": "0.1.0",
+  "summary": "FWAdd",
+  "description": "Description FWAdd",
+  "homepage": "https://github.com/idavy/MBProgressHUD-MJ",
+  "license": "MIT",
+  "authors": {
+    "Davy": "aidave@126.com"
+  },
+  "source": {
+    "git": "https://github.com/idavy/MBProgressHUD-MJ.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "FWAdd": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
