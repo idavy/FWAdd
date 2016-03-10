@@ -39,5 +39,6 @@ Pod::Spec.new do |s|
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'MBProgressHUD', '~> 0.9.1'
-
+  s.dependency 'AFNetworking', '~> 2.0'
+  s.dependency 'ReactiveCocoa', '~> 2.0'
 end
